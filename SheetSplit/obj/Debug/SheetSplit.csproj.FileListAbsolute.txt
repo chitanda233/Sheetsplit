@@ -1,0 +1,14 @@
+C:\splitexcel-master\SheetSplit\bin\Debug\SheetSplit.exe.config
+C:\splitexcel-master\SheetSplit\bin\Debug\SheetSplit.exe
+C:\splitexcel-master\SheetSplit\bin\Debug\SheetSplit.pdb
+C:\splitexcel-master\SheetSplit\obj\Debug\SheetSplit.csprojResolveAssemblyReference.cache
+C:\splitexcel-master\SheetSplit\obj\Debug\MainWindow.g.cs
+C:\splitexcel-master\SheetSplit\obj\Debug\App.g.cs
+C:\splitexcel-master\SheetSplit\obj\Debug\SheetSplit_MarkupCompile.cache
+C:\splitexcel-master\SheetSplit\obj\Debug\SheetSplit_MarkupCompile.lref
+C:\splitexcel-master\SheetSplit\obj\Debug\MainWindow.baml
+C:\splitexcel-master\SheetSplit\obj\Debug\SheetSplit.g.resources
+C:\splitexcel-master\SheetSplit\obj\Debug\SheetSplit.Properties.Resources.resources
+C:\splitexcel-master\SheetSplit\obj\Debug\SheetSplit.csproj.GenerateResource.Cache
+C:\splitexcel-master\SheetSplit\obj\Debug\SheetSplit.exe
+C:\splitexcel-master\SheetSplit\obj\Debug\SheetSplit.pdb

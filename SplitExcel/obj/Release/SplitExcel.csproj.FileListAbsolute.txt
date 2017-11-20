@@ -1,0 +1,4 @@
+C:\splitexcel-master\SplitExcel\bin\Release\SplitExcel.exe
+C:\splitexcel-master\SplitExcel\bin\Release\SplitExcel.pdb
+C:\splitexcel-master\SplitExcel\obj\Release\SplitExcel.exe
+C:\splitexcel-master\SplitExcel\obj\Release\SplitExcel.pdb
